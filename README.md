@@ -25,16 +25,16 @@ npm install --save-dev gh-pages
   "homepage": "https://ozofweird.github.io/kevin-dev-git-react",
   "name": "kevin-dev-git-react",
 
-  // ...생략
+  //...생략
 
   "scripts": {
 
-  // ...생략
+  //...생략
 
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  // ...생략
+  //...생략
 ```
 
 > Git
@@ -52,7 +52,7 @@ npm run deploy
 
 # 결과
 
-- [결과](https://ozofweird.github.io/kevin-dev-git-react)
+- https://ozofweird.github.io/kevin-dev-git-react
 
 ---
 
