@@ -8,7 +8,7 @@ React를 이용하여 간단한 Github 페이지를 생성하는 프로젝트입
 
 ---
 
-## 명령어
+## 사용법
 
 > React
 
@@ -50,12 +50,12 @@ npm run deploy
 
 ---
 
-# 결과
+## 결과
 
 - https://ozofweird.github.io/kevin-dev-git-react
 
 ---
 
-# 참고
+## 참고
 
 - [React JS를 Github Pages에 호스팅하기](https://www.hohyeonmoon.com/blog/react-js-github-pages-deploy/)
