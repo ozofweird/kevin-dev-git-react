@@ -54,6 +54,8 @@ npm run deploy
 
 - https://ozofweird.github.io/kevin-dev-git-react
 
+![](./docs/images/result.png)
+
 ---
 
 ## 참고
